@@ -1,0 +1,417 @@
+[[AdvancedFormat]]
+
+[[Block:Informations Préliminaires]]
+
+[[Question:Text]]
+[[ID:DB1]]
+Quelques questions sur votre profil
+
+[[Question:TE:SingleLine]]
+[[ID:Q1_name]]
+Nom (optionnel)
+
+[[Question:TE:SingleLine]]
+[[ID:Q1_experience]]
+Années d'expérience dans l'enseignement
+
+[[Question:TE:SingleLine]]
+[[ID:Q1_age_groups]]
+Âges/niveaux avec lesquels vous travaillez actuellement
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID:Q1_canton]]
+Canton
+[[Choices]]
+Vaud
+Neuchâtel
+Genève
+Fribourg
+Valais
+Autre
+
+[[PageBreak]]
+
+[[Block:Partie 1 - Réflexion Individuelle]]
+
+[[Question:Text]]
+[[ID:DB2]]
+Prenez quelques minutes pour réfléchir individuellement. Imaginez un support idéal pour aider un élève de 10-13 ans avec ses devoirs de pratique et d'application.
+
+[[Question:TE:Essay]]
+[[ID:Q2_1_ideal_description]]
+Comment décririez-vous un support idéal aux devoirs pour un élève de 10-13 ans ?
+
+[[Question:TE:Essay]]
+[[ID:Q2_2_essential_elements]]
+Quels sont les éléments ESSENTIELS que ce support devrait absolument fournir ?
+
+[[Question:TE:Essay]]
+[[ID:Q2_3_avoid_elements]]
+Quels comportements ou approches ce support devrait-il ABSOLUMENT ÉVITER ?
+
+[[Question:TE:Essay]]
+[[ID:Q2_4_age_differences]]
+Y a-t-il des différences importantes entre un élève de 10-11 ans et un élève de 12-13 ans en termes de support aux devoirs ?
+
+[[PageBreak]]
+
+[[Block:Partie 2A - Dimensions de Monitoring]]
+
+[[Question:Text]]
+[[ID:DB3_1]]
+Comprendre où en est l'élève dans sa compréhension et son raisonnement (Dimension COGNITIVE).
+
+[[Question:MC:MultipleAnswer:Vertical]]
+[[ID:Q3_1_cognitive_elements]]
+Quels aspects cognitifs sont ESSENTIELS à surveiller pendant les devoirs ?
+<br><i>Sélectionnez tous ceux qui s'appliquent</i>
+[[Choices]]
+Niveau de compréhension (comprend-il le concept ?)
+Processus de raisonnement (comment réfléchit-il ?)
+Mémoire et rappel (se souvient-il des concepts ?)
+Flexibilité cognitive (peut-il changer de perspective ?)
+Vitesse de traitement (va-t-il trop vite/lentement ?)
+Détection d'erreurs (repère-t-il ses erreurs ?)
+Autre (préciser ci-dessous)
+
+[[Question:TE:SingleLine]]
+[[ID:Q3_1_cognitive_other]]
+Si 'Autre', précisez :
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID:Q3_2_cognitive_importance]]
+À quel point est-il important de monitorer la dimension cognitive ?
+[[Choices]]
+1 - Peu important
+2
+3
+4
+5 - Extrêmement important
+
+[[Question:Text]]
+[[ID:DB3_2]]
+Comprendre l'état émotionnel et motivationnel de l'élève (Dimension AFFECTIVE).
+
+[[Question:MC:MultipleAnswer:Vertical]]
+[[ID:Q3_3_affective_elements]]
+Quels aspects affectifs sont ESSENTIELS à surveiller ?
+<br><i>Sélectionnez tous ceux qui s'appliquent</i>
+[[Choices]]
+Niveau d'engagement (est-il impliqué ?)
+Confiance en soi (se sent-il capable ?)
+État émotionnel (frustré, anxieux, content ?)
+Motivation (intrinsèque, extrinsèque, absente ?)
+Persévérance (abandonne-t-il facilement ?)
+Autre (préciser ci-dessous)
+
+[[Question:TE:SingleLine]]
+[[ID:Q3_3_affective_other]]
+Si 'Autre', précisez :
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID:Q3_4_affective_importance]]
+À quel point est-il important de monitorer la dimension affective ?
+[[Choices]]
+1 - Peu important
+2
+3
+4
+5 - Extrêmement important
+
+[[Question:Text]]
+[[ID:DB3_3]]
+Comprendre la qualité et le déroulement de l'interaction (Dimension INTERACTIONNELLE).
+
+[[Question:MC:MultipleAnswer:Vertical]]
+[[ID:Q3_5_interactional_elements]]
+Quels aspects interactionnels sont ESSENTIELS à surveiller ?
+<br><i>Sélectionnez tous ceux qui s'appliquent</i>
+[[Choices]]
+Fluidité (l'interaction est-elle fluide ou laborieuse ?)
+Clarté de communication (se comprend-on bien ?)
+Rythme (trop rapide, trop lent ?)
+Équilibre des tours de parole (qui domine ?)
+Signes de manipulation (qui essaie de contourner quoi ?)
+Autre (préciser ci-dessous)
+
+[[Question:TE:SingleLine]]
+[[ID:Q3_5_interactional_other]]
+Si 'Autre', précisez :
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID:Q3_6_interactional_importance]]
+À quel point est-il important de monitorer la dimension interactionnelle ?
+[[Choices]]
+1 - Peu important
+2
+3
+4
+5 - Extrêmement important
+
+[[Question:Text]]
+[[ID:DB3_4]]
+Comprendre la relation qui se développe entre l'élève et le support (Dimension RELATIONNELLE).
+
+[[Question:MC:MultipleAnswer:Vertical]]
+[[ID:Q3_7_relational_elements]]
+Quels aspects relationnels sont ESSENTIELS à surveiller ?
+<br><i>Sélectionnez tous ceux qui s'appliquent</i>
+[[Choices]]
+Niveau de confiance (l'élève fait-il confiance au support ?)
+Dépendance (devient-il trop dépendant ?)
+Autonomie (garde-t-il son autonomie ?)
+Attachement émotionnel (type de lien qui se crée)
+Dynamique de pouvoir (qui a le contrôle ?)
+Autre (préciser ci-dessous)
+
+[[Question:TE:SingleLine]]
+[[ID:Q3_7_relational_other]]
+Si 'Autre', précisez :
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID:Q3_8_relational_importance]]
+À quel point est-il important de monitorer la dimension relationnelle ?
+[[Choices]]
+1 - Peu important
+2
+3
+4
+5 - Extrêmement important
+
+[[Question:Text]]
+[[ID:DB3_5]]
+Comprendre les intentions et objectifs de l'élève (Dimension INTENTIONNELLE).
+
+[[Question:MC:MultipleAnswer:Vertical]]
+[[ID:Q3_9_intentional_elements]]
+Quels aspects intentionnels sont ESSENTIELS à surveiller ?
+<br><i>Sélectionnez tous ceux qui s'appliquent</i>
+[[Choices]]
+Objectif de l'élève (apprendre vs finir vite)
+Stratégie d'apprentissage (profonde vs superficielle)
+Comportement de demande d'aide (approprié, prématuré, absent)
+Honnêteté intellectuelle (cherche vraiment ou triche ?)
+Autre (préciser ci-dessous)
+
+[[Question:TE:SingleLine]]
+[[ID:Q3_9_intentional_other]]
+Si 'Autre', précisez :
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID:Q3_10_intentional_importance]]
+À quel point est-il important de monitorer la dimension intentionnelle ?
+[[Choices]]
+1 - Peu important
+2
+3
+4
+5 - Extrêmement important
+
+[[Question:Text]]
+[[ID:DB3_6]]
+Surveiller la curiosité et la motivation intrinsèque (Dimension MOTIVATIONNELLE).
+
+[[Question:MC:MultipleAnswer:Vertical]]
+[[ID:Q3_11_motivational_elements]]
+Quels aspects motivationnels sont ESSENTIELS à surveiller ?
+<br><i>Sélectionnez tous ceux qui s'appliquent</i>
+[[Choices]]
+Curiosité intrinsèque (questions spontanées, exploration)
+Niveau d'intérêt (engagé vs indifférent)
+Engagement spontané (continue au-delà des exigences)
+Persévérance sans récompenses externes
+Type de motivation (intrinsèque vs extrinsèque)
+Autre (préciser ci-dessous)
+
+[[Question:TE:SingleLine]]
+[[ID:Q3_11_motivational_other]]
+Si 'Autre', précisez :
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID:Q3_12_motivational_importance]]
+À quel point est-il important de surveiller la curiosité et la motivation intrinsèque ?
+[[Choices]]
+1 - Peu important
+2
+3
+4
+5 - Extrêmement important
+
+[[Question:Text]]
+[[ID:DB3_7]]
+Comparer l'apprentissage attendu par rapport à l'apprentissage réel (Dimension APPRENTISSAGE).
+
+[[Question:TE:Essay]]
+[[ID:Q3_13_expected_learning]]
+Comment reconnaissez-vous qu'un élève apprend PLUS VITE que prévu ?
+
+[[Question:TE:Essay]]
+[[ID:Q3_14_learning_effort]]
+Comment évaluez-vous si l'apprentissage est plus FACILE que prévu pour un élève ?
+
+[[Question:TE:Essay]]
+[[ID:Q3_15_optimal_moments]]
+Avez-vous déjà observé des moments où un élève semble particulièrement "prêt" à apprendre un concept ? Comment le reconnaissez-vous ?
+
+[[PageBreak]]
+
+[[Block:Partie 2B - Gestes Pédagogiques]]
+
+[[Question:Text]]
+[[ID:DB4_1]]
+Structurer et guider la séquence d'apprentissage (PILOTAGE).
+
+[[Question:TE:Essay]]
+[[ID:Q4_1_pilotage_description]]
+Comment un bon support devrait-il structurer et piloter la séquence de devoirs ?
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID:Q4_2_pilotage_directivity]]
+Quel niveau de directivité dans le pilotage ?
+[[Choices]]
+1 - Très peu directif (l'élève décide)
+2
+3
+4
+5 - Très directif (structure imposée)
+
+[[Question:TE:Essay]]
+[[ID:Q4_3_pilotage_avoid]]
+Qu'est-ce qu'un support devrait ÉVITER en termes de pilotage ?
+
+[[Question:Text]]
+[[ID:DB4_2]]
+Aider l'élève à faire des liens et voir le sens de ce qu'il apprend (TISSAGE).
+
+[[Question:TE:Essay]]
+[[ID:Q4_4_tissage_description]]
+Comment un bon support devrait-il aider l'élève à faire des liens et donner du sens ?
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID:Q4_5_tissage_frequency]]
+À quelle fréquence le support devrait-il faire des liens explicites ?
+[[Choices]]
+1 - Rarement (l'élève fait ses propres liens)
+2
+3
+4
+5 - Très fréquemment (liens constants)
+
+[[Question:Text]]
+[[ID:DB4_3]]
+Fournir l'aide juste nécessaire au bon moment (ÉTAYAGE).
+
+[[Question:TE:Essay]]
+[[ID:Q4_6_etayage_description]]
+Quel type d'étayage un bon support devrait-il fournir ?
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID:Q4_7_etayage_level]]
+Quel niveau d'aide initial ?
+[[Choices]]
+1 - Minimale (laisser chercher seul)
+2
+3
+4
+5 - Substantielle (aide importante dès le début)
+
+[[Question:TE:Essay]]
+[[ID:Q4_8_etayage_progression]]
+Comment l'étayage devrait-il évoluer au cours de l'interaction ?
+
+[[Question:TE:Essay]]
+[[ID:Q4_9_etayage_avoid]]
+Qu'est-ce qu'un support devrait ÉVITER en termes d'étayage ?
+
+[[Question:Text]]
+[[ID:DB4_4]]
+Créer un climat propice à l'apprentissage (ATMOSPHÈRE).
+
+[[Question:MC:MultipleAnswer:Vertical]]
+[[ID:Q4_10_atmosphere_elements]]
+Quels éléments sont ESSENTIELS pour créer une bonne atmosphère ?
+<br><i>Sélectionnez tous ceux qui s'appliquent</i>
+[[Choices]]
+Encouragements et renforcement positif
+Acceptation de l'erreur comme normale
+Ton patient et respectueux
+Célébration des progrès
+Absence de jugement
+Autre (préciser ci-dessous)
+
+[[Question:TE:SingleLine]]
+[[ID:Q4_10_atmosphere_other]]
+Si 'Autre', précisez :
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID:Q4_11_atmosphere_positivity]]
+Quel niveau de positivité dans le ton ?
+[[Choices]]
+1 - Neutre, factuel
+2
+3
+4
+5 - Très encourageant, chaleureux
+
+[[Question:Text]]
+[[ID:DB4_5]]
+Stimuler la réflexion active et l'autonomie intellectuelle (ENGAGEMENT COGNITIF).
+
+[[Question:MC:MultipleAnswer:Vertical]]
+[[ID:Q4_12_cognitive_engagement_strategies]]
+Quelles stratégies sont ESSENTIELLES pour stimuler l'engagement cognitif ?
+<br><i>Sélectionnez tous ceux qui s'appliquent</i>
+[[Choices]]
+Questions socratiques (faire réfléchir)
+Prompts métacognitifs (réfléchir sur sa pensée)
+Encourager l'auto-explication
+Stimuler la curiosité et l'exploration
+Promouvoir l'auto-évaluation
+Autre (préciser ci-dessous)
+
+[[Question:TE:SingleLine]]
+[[ID:Q4_12_cognitive_engagement_other]]
+Si 'Autre', précisez :
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID:Q4_13_cognitive_engagement_level]]
+Quel niveau d'exigence cognitive ?
+[[Choices]]
+1 - Faible (tâches simples, guidées)
+2
+3
+4
+5 - Élevé (défis intellectuels constants)
+
+[[Question:Text]]
+[[ID:DB4_6]]
+Synthèse des gestes pédagogiques.
+
+[[Question:TE:Essay]]
+[[ID:Q4_14_gestural_balance]]
+Parmi ces 5 gestes pédagogiques, lesquels sont les PLUS importants pour les devoirs de pratique et d'application ?
+
+[[Question:TE:Essay]]
+[[ID:Q4_15_additional_reflections]]
+Y a-t-il d'autres aspects importants d'un bon support aux devoirs que nous n'avons pas couverts ?
+
+[[PageBreak]]
+
+[[Block:Questions Finales]]
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID:Q5_1_ai_experience]]
+Avez-vous déjà utilisé des outils d'IA pour soutenir l'apprentissage des élèves ?
+[[Choices]]
+Oui, régulièrement
+Oui, occasionnellement
+Oui, une fois
+Non, jamais
+
+[[Question:TE:Essay]]
+[[ID:Q5_2_ai_concerns]]
+Quelles sont vos principales préoccupations concernant l'utilisation de l'IA pour le support aux devoirs ?
+
+[[Question:TE:SingleLine]]
+[[ID:Q5_3_contact]]
+Souhaitez-vous être contacté(e) pour participer à des focus groups avec des élèves ? Si oui, veuillez fournir votre email.
